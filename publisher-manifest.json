@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a1dc0966e7f2bdc7f104d598",
+  "owner": "g5gxus",
+  "repo": "page-7313452bd7b559a67a538fa2",
+  "title": "EEVPN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7313452bd7b559a67a538fa2",
+      "a": "EEVPN",
+      "b": "",
+      "entity": "EEVPN",
+      "brand": "EEVPN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "880a0f45f4165817001f4835dda291f8d1dff30fdef00fb1b25296486bb2134f",
+      "content": {
+        "keyword1": "EEVPN",
+        "keyword2": "",
+        "primary_entity": "EEVPN",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "EEVPN是面向跨境办公、学习科研与流媒体访问的官方机场与加速服务，提供清晰套餐、多端客户端下载及稳定网络加速节点。",
+          "AI_DESCRIPTION": "EEVPN是面向跨境办公、学习科研与流媒体访问的官方机场与加速服务，提供清晰套餐、多端客户端下载及稳定网络加速节点。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html{scroll-behavior:auto}body{margin:0;background:#faf6f1;color:#2c241e;font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:17px;line-height:1.75}a{color:#c44b3c;text-decoration:underline}a:hover{color:#9a3428}img,svg{display:none}header,footer,main,nav,section,article,aside{display:block}header{background:#fff8f4;border-bottom:3px solid #e07060;padding:16px 18px}header .wrap,main .wrap,footer .wrap{max-width:980px;margin:0 auto}header h1{margin:8px 0 6px;font-size:28px;line-height:1.3;color:#1f1916}header p.lead{margin:0 0 8px;font-size:16px;color:#4a3f38}nav{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:12px;font-size:15px}nav a{text-decoration:none;border-bottom:1px solid #e07060;padding-bottom:1px}main{padding:20px 18px 40px}.panel{background:#fffdfb;border:1px solid #eadfd6;border-radius:12px;padding:18px 18px 8px;margin:0 0 22px}.panel h2{margin:0 0 10px;font-size:22px;color:#1f1916;border-left:6px solid #e07060;padding-left:10px}.panel h3{margin:16px 0 8px;font-size:18px;color:#3a2f2a}p,li{word-wrap:break-word;overflow-wrap:break-word}.cols{display:flex;flex-wrap:wrap;gap:14px;margin:12px 0 16px}.cols article{flex:1 1 260px;background:#fff8f4;border:1px solid #e7d6cc;border-radius:10px;padding:14px 14px 8px}.cols article.featured{border:2px solid #e07060;background:#fff1ec;box-shadow:0 0 0 3px #f6d7d0}.price{font-size:20px;font-weight:700;color:#c44b3c;margin:0}.annual{margin:4px 0 10px;font-size:14px;color:#5c5048}ul.feats{margin:0 0 12px;padding-left:18px}ul.feats li{margin:0 0 4px}.steps{margin:0;padding-left:20px}.steps li{margin:0 0 8px}details{background:#fff8f4;border:1px solid #e7d6cc;border-radius:8px;padding:10px 12px;margin:0 0 10px}details summary{cursor:pointer;font-weight:700;color:#1f1916;font-size:16px}details p{margin:8px 0 4px;color:#3a2f2a}#faq{border-color:#e07060}aside.ad{background:#fff1ec;border:1px dashed #e07060;border-radius:10px;padding:14px 16px;margin:0 0 22px}aside.ad h2{font-size:18px;margin:0 0 8px;border:0;padding:0}.links{display:flex;flex-wrap:wrap;gap:8px 14px;margin:8px 0 16px}.links a{text-decoration:none;background:#fffdfb;border:1px solid #eadfd6;border-radius:999px;padding:4px 12px}footer{background:#2c241e;color:#f3ece6;padding:22px 18px;font-size:14px}footer a{color:#ffc7bc}footer h2{font-size:16px;margin:0 0 8px;color:#fff}footer ul{margin:0 0 14px;padding-left:18px}.note{font-size:14px;color:#5c5048}</style><header><div class=\"wrap\"><p class=\"lead\">EEVPN 官方网站 · 机场订阅与客户端下载</p><h1>EEVPN 官方网站：机场订阅与加速器客户端</h1><p>面向跨境协作、在线课堂与流媒体访问的网络加速服务。本页说明套餐、使用场景、操作步骤与常见问题，便于在官网完成订阅与客户端下载。</p><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作信息</a><a href=\"#links\">友情链接</a><a href=\"#sitemap\">站点地图</a></nav></div></header><main><div class=\"wrap\"><section class=\"panel\" id=\"intro\"><h2>品牌简介</h2><p>EEVPN 是以机场订阅为核心的网络加速品牌，同时提供多平台加速器客户端。用户按套餐获取订阅后，可在电脑、手机与平板导入配置，按需选择线路完成加密传输与访问加速。服务定位是稳定、可预期、说明清楚，而不是堆砌无法核验的口号。</p><p>作为官方网站入口，本页集中展示现行套餐、适用场景、操作说明与下载指引。EEVPN 将订阅与客户端分开说明：订阅决定流量、设备数与线路权限；客户端负责导入订阅、选择节点并保持连接。两者配合使用，避免把“机场”和“某个单一 App 名称”混为一谈。</p><h3>服务边界</h3><p>EEVPN 提供用于合法跨境办公、学术资料查阅、国际协作与公开流媒体内容访问的加速能力。请遵守所在地法律法规及目标网站条款。本站不提供破解、入侵或绕过他人系统安全的任何方法。</p><h3>线路与性能说明</h3><p>节点池覆盖常用跨境方向，普通线路适合网页与日常通讯；旗舰与团队权限包含 IPLC 专线与更高带宽节点，更适合会议、远程桌面与对延迟敏感的在线对战。实际速度受本地宽带、运营商路由与目标站点策略影响，页面中的流量数字均以套餐合约为准，不在此编造测速排行或用户评分。</p></section><section class=\"panel\" id=\"scenes\"><h2>使用场景</h2><div class=\"cols\"><article><h3>跨境办公与远程会议</h3><p>海外文档、代码托管、设计协作与视频会议对延迟和丢包敏感。EEVPN 旗舰版与团队版可优先走专线节点，减少会议卡顿与文件同步中断。</p></article><article><h3>在线课程与科研检索</h3><p>公开学术数据库、网课平台与英文资料站需要持续稳定的会话。基础版即可覆盖浏览与下载作业；长时间直播课建议预留更高流量套餐。</p></article><article><h3>流媒体与内容创作</h3><p>基础版解锁常见公开流媒体；旗舰版强调全节点原生解锁，降低因线路出口变化导致的清晰度下降。创作素材上传可搭配高带宽节点。</p></article><article><h3>多人设备与小型团队</h3><p>家庭或多成员工作室需要同时在线。基础版 3 台、旗舰版 5 台、团队版 20 台设备额度，便于把订阅当作共享出口而不是每人单独寻找临时工具。</p></article></div></section><section class=\"panel\" id=\"plans\"><h2>套餐方案</h2><p>价格以下列为准。年付按十二个月计，便于把月度预算折算成年成本。流量为每月额度，周期结束按套餐规则重置，不把未用完流量描述成可无限累积。</p><div class=\"cols\"><article><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"feats\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#guide\">查看开通步骤</a></p></article><article class=\"featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"feats\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#download\">前往客户端下载</a></p></article><article><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"feats\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#faq\">阅读团队常见问题</a></p></article></div><p class=\"note\">设备同时在线指同一订阅在同一时刻保持连接的终端数量。更换设备前请先在已登录客户端中断开，以免占用名额。</p></section><section class=\"panel\" id=\"guide\"><h2>操作说明</h2><p>EEVPN 的使用路径是：选套餐、取得订阅、下载官方客户端、导入并连接。以下步骤覆盖大多数桌面与移动环境，无需第三方来路不明的安装包。</p><h3>开通与订阅</h3><ol class=\"steps\"><li>在本页确认基础版、旗舰版或团队版的流量与设备数是否匹配日常用量。</li><li>通过官网账户完成开通后，在用户中心复制订阅地址。请只在官方域名操作，不要把订阅发给陌生人。</li><li>若选择年付，到账后当期流量规则与月付相同，只是结算周期按年计算。</li></ol><h3>导入与连接</h3><ol class=\"steps\"><li>打开已安装的 EEVPN 客户端或兼容的通用订阅客户端，选择“从 URL 更新订阅”。</li><li>粘贴订阅地址并更新节点列表。首次导入可能需要数秒完成解析。</li><li>按场景选择节点：网页浏览用普通线路；会议与对战优先 IPLC 或高带宽节点。</li><li>连接成功后，用目标网站做一次访问确认。若失败，切换邻近节点或检查本地系统时间是否准确。</li><li>长期不用请断开连接，避免后台占用设备名额与流量。</li></ol><h3>日常维护</h3><p>客户端请保持与官网发布版本一致。节点更新依赖订阅刷新，建议在线路异常时手动更新一次，而不是反复重装。团队版如需定制分流，由客户经理按域名或进程规则配置，避免在终端上散落多套互相覆盖的配置文件。</p></section><section class=\"panel\" id=\"download\"><h2>客户端下载</h2><p>请仅通过 EEVPN 官网下载客户端。下列入口为页面锚点导航，安装包以用户中心当前版本为准。不要在论坛附件或来路不明网盘获取同名程序。</p><div class=\"cols\"><article><h3>Windows</h3><p>适用于常见 64 位个人电脑。安装后允许本地网络权限，导入订阅即可。官方下载：<a href=\"#download\">Windows 客户端</a></p></article><article><h3>macOS</h3><p>从系统设置中允许必要的网络扩展后导入订阅。官方下载：<a href=\"#download\">macOS 客户端</a></p></article><article><h3>Android</h3><p>建议直接安装官方包并关闭未知来源的重复安装。官方下载：<a href=\"#download\">Android 客户端</a></p></article><article><h3>iOS</h3><p>通过官方说明完成配置描述文件或兼容客户端导入。入口：<a href=\"#download\">iOS 配置说明</a></p></article></div><p>通用订阅也可导入主流开源客户端，但功能以 EEVPN 官方客户端的节点分组、分流模板与工单通道为准。遇到证书或系统代理冲突时，回到本页操作说明逐项核对，无需反复更换机场。</p></section><section class=\"panel\" id=\"faq\"><h2>常见问题</h2><p>以下问题按实际开通与使用顺序排列。展开即可阅读完整回答，便于对照自己的套餐与设备。</p><details><summary>EEVPN 是机场订阅还是单一 VPN 软件？</summary><p>EEVPN 同时提供机场订阅与加速器客户端。机场侧负责节点、流量与套餐权限；客户端负责导入订阅并建立连接。你可以只使用官方客户端，也可以在了解风险的前提下把订阅导入兼容客户端，但工单与流媒体策略仍以官网套餐说明为准。</p></details><details><summary>如何从官网完成订阅并开始网络加速？</summary><p>先选定基础版、旗舰版或团队版，在官方账户开通后复制订阅地址，再于客户端选择从 URL 更新。更新成功后挑选节点连接。不要把订阅二维码发到公开群组。若列表为空，优先检查复制是否完整、本地时间是否正确，再尝试刷新。</p></details><details><summary>各套餐流量、设备数和线路有什么差别？</summary><p>基础版每月 100GB、3 台设备、普通线路与基础流媒体；旗舰版每月 300GB、5 台设备，含全节点原生流媒体、IPLC 游戏加速与优先工单；团队版每月 1000GB、20 台设备，含 VIP 高带宽节点、企业定制路由与专属客户经理。年付价格分别为 ¥150/年、¥350/年、¥850/年。</p></details><details><summary>客户端下载后提示无法连接，应该如何排查？</summary><p>按顺序检查：是否为官网客户端、订阅是否在有效期内、设备数是否已满、系统时间是否同步、本机是否同时开启了其他代理。然后更新订阅并更换同区域节点。公司网络若拦截隧道协议，可改用客户端内提供的备用端口模板，仍失败再提交工单并附上操作系统版本。</p></details><details><summary>流媒体缓冲或显示地区限制时怎么办？</summary><p>基础版覆盖常见公开平台的基础解锁，若仍提示地区不符，可改用旗舰版的原生解锁节点并关闭系统里其他 VPN。播放前先完成一次订阅更新。同一账号短时间切换过多出口，也可能被内容站风控，建议固定一条解锁线路观看。</p></details><details><summary>团队版如何分配给多名同事且保持可控？</summary><p>由管理员保管订阅主地址，按部门下发客户端与分流模板，而不是把主订阅发到全员群。20 台同时在线适合中小团队轮班；若设备长期挂机，应约定断开规则。企业定制路由可以把办公域名走专线、其余流量走普通节点，减少带宽争抢。具体名单交给专属客户经理维护。</p></details><details><summary>年付与月付如何选择？流量会清零吗？</summary><p>月付适合短期项目；年付把十二个月费用一次性结算，单价更低。流量按自然使用周期每月重置，不会因为年付就把 12 个月额度合成一个大池。若预计会议季流量明显高于平时，优先提高套餐档位，而不是依赖未在合约中的“加速包”口头承诺。</p></details></section><aside class=\"ad\" id=\"ads\"><h2>合作与展示信息</h2><p>EEVPN 官方网站可提供图文合作位，用于浏览器下载指引、办公套件说明或云存储教程等与跨境协作相关的内容展示。合作内容需可公开核验，不接受来路不明的安装包推广。</p><p>商务对接请通过官网工单注明“合作展示”，并提供可访问的介绍页锚点资料。本页不嵌入第三方广告脚本，仅保留静态说明，避免影响阅读与加载。</p></aside><section class=\"panel\" id=\"links\"><h2>友情链接</h2><p>以下为站内导航与协作入口，全部使用页面锚点，避免跳转到无法审核的外部资源。</p><p class=\"links\"><a href=\"#intro\">EEVPN 简介</a><a href=\"#plans\">套餐一览</a><a href=\"#download\">官方下载</a><a href=\"#guide\">导入说明</a><a href=\"#faq\">FAQ 专区</a><a href=\"#sitemap\">站点地图</a></p></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer id=\"sitemap\"><div class=\"wrap\"><h2>站点地图</h2><ul><li><a href=\"#intro\">品牌简介</a> — EEVPN 机场订阅与加速器定位</li><li><a href=\"#scenes\">使用场景</a> — 办公、课程、流媒体与团队</li><li><a href=\"#plans\">套餐方案</a> — 基础版 / 旗舰版 / 团队版</li><li><a href=\"#guide\">操作说明</a> — 开通、导入、连接与维护</li><li><a href=\"#download\">客户端下载</a> — Windows、macOS、Android、iOS</li><li><a href=\"#faq\">常见问题</a> — 订阅、流量、排障与年付</li><li><a href=\"#\">XML Sitemap</a></li></ul><p>EEVPN 官方网站 · 版权所有 · 仅提供合法用途的网络加速与客户端下载说明</p></div></footer>",
+          "hash": "bd8062b44fc337b81ea5af0f207367cb911adcc162250a88123f23ec37d4a198",
+          "seo": {
+            "title": "EEVPN官网下载 | 机场订阅、加速器客户端与网络加速服务",
+            "keywords": "EEVPN,EEVPN官网,EEVPN下载,EEVPN机场,机场订阅,VPN加速器,梯子网络加速,客户端下载,官方网站",
+            "description": "EEVPN是面向跨境办公、学习科研与流媒体访问的官方机场与加速服务，提供清晰套餐、多端客户端下载及稳定网络加速节点。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "pymhyxy.cn",
+    "host": "p-318e19a439.pymhyxy.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "pymhyxy.cn",
+      "url": "https://pymhyxy.cn/",
+      "label": "大阪国際",
+      "apex": "pymhyxy.cn",
+      "kind": null,
+      "identity": "bpqdvaagak/page-4e2b2055b60e89119563b791"
+    },
+    {
+      "host": "xdzrn.cn",
+      "url": "https://xdzrn.cn/",
+      "label": "EEVPN",
+      "apex": "xdzrn.cn",
+      "kind": null,
+      "identity": "dhkeeryny/page-ca1fc3bc712d4a7666aae7aa"
+    },
+    {
+      "host": "xgsm5e.cn",
+      "url": "https://xgsm5e.cn/",
+      "label": "EEVPN",
+      "apex": "xgsm5e.cn",
+      "kind": null,
+      "identity": "fjaumcadfkd/page-dbf7aad970b291a582fbce10"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8f129bfd6b47232fdbd0294a4fc2c4869e95456d3a18291ff0a21ac4f0583f1f",
+    "sitemap.xml": "899e16f8cec5000e6f2b7fdbaa623dd945f505b8c5248ff942e627254d73503e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "215316322d25a9d35f7bf8bf35afbfba60d7ef5c61435b5a5cd602b32fce55c0",
+    "robots.txt": "9e1a870b9e0b92f818094f42cd2c7813873fe0d3489ea6c9e7b43b81cbe45ace",
+    "30953beee3540235d703b73400939e96.txt": "24d4a8e37bb065421747cd059d94645f2b5d91f3a1ba4bdbdb5cd247ba8be9e1"
+  },
+  "revision": "ba24ede154a3ea2efae4dd800db04a7844a2f656e388599afd7b3730a3a9cf40"
+}
